@@ -1,4 +1,4 @@
-# PathMNIST Explainable Deep Learning Model 🚀
+# PathMNIST-XAI: Explainable CNN for Medical Imaging
 
 A **lightweight yet high-performing CNN model** designed for the **PathMNIST medical imaging dataset**.  
 This model integrates **explainable AI (XAI)** techniques using **Integrated Gradients** for transparent decision-making, while also leveraging **SQLite for scalable attribution storage**.
