@@ -76,7 +76,7 @@ Training ran for **25 epochs** with augmentation, Adam optimizer, and ReduceLROn
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone [pathmnist-explainable-cnn](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)
+git clone https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging
 cd pathmnist-explainable-cnn
 ```
 
